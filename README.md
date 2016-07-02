@@ -1,6 +1,6 @@
 # HRSystem
-人事管理系统
-Java
+人事管理系统  
+Java  
 Swing框架
 
 系统界面：
